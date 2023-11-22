@@ -1,0 +1,31 @@
+P1 C 25
+P1 W 23
+P1 R 15
+P1 W 7
+P1 I 0
+P1 P 6
+P1 R 12
+P1 W 20
+P1 T
+P2 C 12
+P2 R 4
+P2 R 2
+P2 R 0
+P2 W 8
+P2 W 9
+P2 I 0
+P2 T
+P3 C 10
+P3 W 0
+P3 R 2
+P3 W 8
+P3 I 9
+P3 T
+P4 C 7
+P4 W 5
+P4 R 3
+P4 T
+P5 C 5
+P5 W 3
+P5 R 1
+P5 T
